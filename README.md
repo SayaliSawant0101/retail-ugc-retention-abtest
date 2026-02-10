@@ -100,6 +100,21 @@ Treatment: 39.1%
 
 –10.7 pp reduction (p < 0.001)
 
+## 📊 Key Visuals
+
+### Repeat Purchase Lift (Paid Users)
+![Repeat Rate](reports/figures/repeat_rate.png)
+
+### Discount Dependency on Repeat Orders
+![Discount Dependency](reports/figures/discount_dependency.png)
+
+### Lift by Category
+![Category Lift](reports/figures/category_lift.png)
+
+### Lift by Region
+![Region Lift](reports/figures/region_lift.png)
+
+
 **Before vs After Funnel (Paid Users)**
 *Before*
 
